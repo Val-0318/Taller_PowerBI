@@ -1,7 +1,12 @@
 # Taller_PowerBI
-Análisis de datos con PowerBI
 
-## Tablero de análisis de ***
+Holaaa, les comparto en este repositorio uno de los resultados del análisis de datos con PowerBI que trabajamos en la clase de 
+
+
+
+## Tablero de análisis de Resultados encuesta preferencias de consumo
+
+
 des
 
 ### Tablero de análisis de ***
